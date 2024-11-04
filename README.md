@@ -1,6 +1,7 @@
 # Olá! Eu sou Fabrício Nicodemos 👋 | Hello! I'm Fabricio Nicodemos 👋
 
 Bem-vindo ao meu perfil no GitHub! Sou apaixonado por desenvolvimento e estou sempre em busca de novos desafios e aprendizados. Aqui você encontrará uma coleção de projetos que estou desenvolvendo e tecnologias que estou explorando.  
+
 Welcome to my GitHub profile! I'm passionate about development and always eager to learn and take on new challenges. Here, you’ll find a collection of my projects and the technologies I’m currently exploring.
 
 ### 🚀 Sobre Mim | About Me
