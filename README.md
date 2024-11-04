@@ -28,8 +28,8 @@ Bem-vindo ao meu perfil no GitHub! Sou apaixonado por desenvolvimento e estou se
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fabricio-Nunes-Nicodemos&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabricio-Nunes-Nicodemos&layout=compact&theme=radical)
 
 ---
 
