@@ -12,8 +12,8 @@ Bem-vindo ao meu perfil no GitHub! Sou apaixonado por desenvolvimento e estou se
 
 ### 🌐 Conecte-se Comigo
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white)]https://www.linkedin.com/in/fabricionicodemos/
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)]https://github.com/Fabricio-Nunes-Nicodemos
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabricionicodemos/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Fabricio-Nunes-Nicodemos)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:faricio.nicodemos@outlook.com)
 
 ---
