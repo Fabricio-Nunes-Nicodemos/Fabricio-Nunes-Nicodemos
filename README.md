@@ -1,16 +1,20 @@
-# Olá! Eu sou Fabricio Nicodemos 👋
+# Olá! Eu sou [Seu Nome] 👋 | Hello! I'm [Your Name] 👋
 
-Bem-vindo ao meu perfil no GitHub! Sou apaixonado por desenvolvimento e estou sempre em busca de novos desafios e aprendizados. Aqui você encontrará uma coleção de projetos que estou desenvolvendo e tecnologias que estou explorando.
+Bem-vindo ao meu perfil no GitHub! Sou apaixonado por desenvolvimento e estou sempre em busca de novos desafios e aprendizados. Aqui você encontrará uma coleção de projetos que estou desenvolvendo e tecnologias que estou explorando.  
+Welcome to my GitHub profile! I'm passionate about development and always eager to learn and take on new challenges. Here, you’ll find a collection of my projects and the technologies I’m currently exploring.
 
-### 🚀 Sobre Mim
+### 🚀 Sobre Mim | About Me
 
-- 🌱 Atualmente focado em **[desenvolvimento web/Python]** e sempre procurando expandir minhas habilidades.
-- 🎯 Meta atual: Criar um portfólio robusto e prático para me destacar no mercado de desenvolvimento.
-- ⚡ Curiosidade: Sou fascinado por desenvolvimento de tecnologia e o impacto da tecnologia no cotidiano.
+- 🌱 Atualmente focado em **[desenvolvimento web/Python]** e sempre procurando expandir minhas habilidades.  
+- 🌱 Currently focused on **[web development/Python]** and always looking to broaden my skill set.
+- 🎯 Meta atual: Criar um portfólio robusto e prático para me destacar no mercado de desenvolvimento.  
+- 🎯 Current goal: Build a robust and practical portfolio to stand out in the development market.
+- ⚡ Curiosidade: Sou fascinado por desenvolvimento e o impacto da tecnologia no cotidiano.  
+- ⚡ Fun fact: I'm fascinated by development and the impact of technology on everyday life.
 
 ---
 
-### 🌐 Conecte-se Comigo
+### 🌐 Conecte-se Comigo | Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabricionicodemos/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Fabricio-Nunes-Nicodemos)
@@ -18,11 +22,11 @@ Bem-vindo ao meu perfil no GitHub! Sou apaixonado por desenvolvimento e estou se
 
 ---
 
-### 🛠️ Habilidades Técnicas
+### 🛠️ Habilidades Técnicas | Technical Skills
 
-- **Linguagens**: Python, JavaScript.
-- **Desenvolvimento Web**: HTML, CSS, Django, VUE.js, node.js, react.
-- **Ferramentas**: Git, VS Code, Notepad++.
+- **Linguagens | Languages**: Python, JavaScript, [outras linguagens que você conhece | other languages you know]
+- **Desenvolvimento Web | Web Development**: HTML, CSS, [outras bibliotecas ou frameworks | other libraries or frameworks]
+- **Ferramentas | Tools**: Git, VS Code, Notepad++, [outras ferramentas que você usa | other tools you use]
 
 ---
 
@@ -33,10 +37,12 @@ Bem-vindo ao meu perfil no GitHub! Sou apaixonado por desenvolvimento e estou se
 
 ---
 
-### ⭐ Projetos em Destaque
+### ⭐ Projetos em Destaque | Featured Projects
 
 - **[Nome do Projeto 1](link_projeto1)**: Em Breve
 
 ---
 
-Obrigado por visitar meu perfil! Fique à vontade para explorar meus projetos e entrar em contato.
+Obrigado por visitar meu perfil! Fique à vontade para explorar meus projetos e entrar em contato.  
+Thank you for visiting my profile! Feel free to explore my projects and reach out anytime.
+
