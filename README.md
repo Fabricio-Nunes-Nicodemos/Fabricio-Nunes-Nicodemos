@@ -1,4 +1,4 @@
-# Olá! Eu sou [Seu Nome] 👋 | Hello! I'm [Your Name] 👋
+# Olá! Eu sou Fabrício Nicodemos 👋 | Hello! I'm Fabricio Nicodemos 👋
 
 Bem-vindo ao meu perfil no GitHub! Sou apaixonado por desenvolvimento e estou sempre em busca de novos desafios e aprendizados. Aqui você encontrará uma coleção de projetos que estou desenvolvendo e tecnologias que estou explorando.  
 Welcome to my GitHub profile! I'm passionate about development and always eager to learn and take on new challenges. Here, you’ll find a collection of my projects and the technologies I’m currently exploring.
@@ -7,8 +7,10 @@ Welcome to my GitHub profile! I'm passionate about development and always eager 
 
 - 🌱 Atualmente focado em **[desenvolvimento web/Python]** e sempre procurando expandir minhas habilidades.  
 - 🌱 Currently focused on **[web development/Python]** and always looking to broaden my skill set.
+  
 - 🎯 Meta atual: Criar um portfólio robusto e prático para me destacar no mercado de desenvolvimento.  
 - 🎯 Current goal: Build a robust and practical portfolio to stand out in the development market.
+  
 - ⚡ Curiosidade: Sou fascinado por desenvolvimento e o impacto da tecnologia no cotidiano.  
 - ⚡ Fun fact: I'm fascinated by development and the impact of technology on everyday life.
 
@@ -24,9 +26,9 @@ Welcome to my GitHub profile! I'm passionate about development and always eager 
 
 ### 🛠️ Habilidades Técnicas | Technical Skills
 
-- **Linguagens | Languages**: Python, JavaScript, [outras linguagens que você conhece | other languages you know]
-- **Desenvolvimento Web | Web Development**: HTML, CSS, [outras bibliotecas ou frameworks | other libraries or frameworks]
-- **Ferramentas | Tools**: Git, VS Code, Notepad++, [outras ferramentas que você usa | other tools you use]
+- **Linguagens | Languages**: Python, JavaScript, TypeScript
+- **Desenvolvimento Web | Web Development**: HTML, CSS, React, Next.
+- **Ferramentas | Tools**: Git, VS Code, Notepad++.
 
 ---
 
