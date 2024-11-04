@@ -47,5 +47,6 @@ Welcome to my GitHub profile! I'm passionate about development and always eager 
 ---
 
 Obrigado por visitar meu perfil! Fique à vontade para explorar meus projetos e entrar em contato.  
+
 Thank you for visiting my profile! Feel free to explore my projects and reach out anytime.
 
