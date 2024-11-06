@@ -27,9 +27,9 @@ Welcome to my GitHub profile! I'm passionate about development and always eager 
 
 ### 🛠️ Habilidades Técnicas | Technical Skills
 
-- **Linguagens | Languages**: Python, JavaScript, TypeScript
+- **Linguagens | Languages**: Python, JavaScript, TypeScript, PHP.
 - **Desenvolvimento Web | Web Development**: HTML, CSS, React, Next.
-- **Ferramentas | Tools**: Git, VS Code, Notepad++.
+- **Ferramentas | Tools**: Git, VS Code, Notepad++, GitHub.
 
 ---
 
