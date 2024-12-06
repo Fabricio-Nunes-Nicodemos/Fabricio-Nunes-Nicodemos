@@ -42,7 +42,7 @@ Welcome to my GitHub profile! I'm passionate about development and always eager 
 
 ### ⭐ Projetos em Destaque | Featured Projects
 
-- **[Nome do Projeto 1](link_projeto1)**: Em Breve
+- **[Snake Game](https://github.com/Fabricio-Nunes-Nicodemos/snake_game)**: Jogo da cobra | Snake Game
 
 ---
 
